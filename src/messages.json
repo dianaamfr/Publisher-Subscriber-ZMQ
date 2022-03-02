@@ -1,0 +1,33 @@
+{ "weather": [
+         "I am surprised to say the weather was better." ,
+         "The weather was balmy, adding to the enjoyment of the day." ,
+         "The weather is supposed to be nice this weekend." ,
+         "The weather made outdoor activities unrealistic." ,
+         "It was the weather that made her so irritable." ,
+         "The weather had turned sultry but there was a cool breeze out on the patio by the barbecue." ,
+         "The dry weather was perfect for building." ,
+         "The weather had cleared again since noon." ,
+         "He remembered only the dull gray weather." ,
+         "The national weather forecast on television was calling for light snow in Arkansas." ,
+         "The weather was already growing wintry and morning frosts congealed an earth saturated by autumn rains." ,
+         "In spite of the mud and weather, she felt much better." ,
+         "In the right stage of the weather a pond fires its evening gun with great regularity." ,
+         "As the weather improved, the goats began kidding in earnest."
+    ], 
+    "covid": [
+        "Victoria has 797 new COVID19 cases and eight deaths." ,
+        "Covid booster jabs set to be given to people in their 50s as NPHET give stark warning." ,
+         "Austria introduces lockdown for unvaccinated." ,
+         "Europe should be wary of possible new Covid variants." ,
+         "Why is Europe the Covid epicentre once again?" ,
+         "Coronavirus cases declining everywhere except Europe." ,
+         "The UK has one of the highest Covid infection rates in the world right now." ,
+         "COVID19 vaccines can help prevent new variants from emerging" ,
+         "COVID19 vaccines do not change or interact with your DNA in any way." ,
+         "Older adults are more likely than younger, healthier people to experience serious illness from COVID19." ,
+         "All three vaccines are safe and effective at preventing hospitalization and death." ,
+         "Fully vaccinated people with breakthrough infections are less likely to develop serious illness from COVID19 than unvaccinated people." ,
+         "People with COVID19 have reported a wide range of symptoms ." ,
+         "A COVID19 test can help you determine if you have an infection." 
+    ]
+}

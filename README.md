@@ -1,5 +1,6 @@
 # Publisher-subscriber message service
-Reliable publish-subscribe service with Python and ZeroMQ
+Reliable publish-subscribe service with Python and ZeroMQ.
+A detailed description of the project is available in the [docs directory](docs/report.pdf).
 
 **Group members**:
 1. [Alexandre Abreu](https://github.com/a3brx)
