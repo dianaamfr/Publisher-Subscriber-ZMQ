@@ -32,9 +32,8 @@ def get_program(args: list) -> Program | None:
         return None
 
 
- 
-    "<program path> <subscriber|publisher|server>"
-
+if __name__ == '__main__':
+    
     if len(sys.argv) < 2:
         print_error("Invalid arguments, expected: server | subscriber <messages> <id>| publisher <topics> <id>")
 

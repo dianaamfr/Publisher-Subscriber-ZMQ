@@ -21,13 +21,13 @@ Make sure you have `python 3` and `pipenv` installed as a global dependecy.
 To install the dependencies (from `src/`):
 
 ```bash
-source pipenv install
+pipenv install
 ```
 
 To activate the python environment that is used in the project run the following command (from `src/`):
 
 ```bash
-source pipenv shell
+pipenv shell
 ```
 ### How to execute
 
