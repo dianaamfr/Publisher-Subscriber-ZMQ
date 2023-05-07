@@ -1,6 +1,7 @@
 # Publisher-subscriber message service
 Reliable publish-subscribe service with Python and ZeroMQ.
 A detailed description of the project is available in the [docs directory](docs/report.pdf).
+This project was developed during the course of Large Scale Distributed Systems (SDLE) at FEUP.
 
 **Group members**:
 1. [Alexandre Abreu](https://github.com/a3brx)
